@@ -6,11 +6,10 @@ This project implements advanced document processing and reactive agent systems 
 
 ### 1. Multi-Modal RAG System
 Build a Retrieval-Augmented Generation (RAG) system that can process and analyze:
-- Audio transcriptions
+
 - PDF documents
 
 This system will enable:
-- Automatic transcription of audio content
 - PDF text extraction and processing
 - Efficient document indexing and retrieval
 - Contextual question-answering based on the processed documents
